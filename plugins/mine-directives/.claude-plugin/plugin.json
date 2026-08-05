@@ -1,7 +1,7 @@
 {
   "name": "mine-directives",
   "displayName": "Mine Directives",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Mine per-project memory and session transcripts for durable standing directives, route each to its right config layer, and propose every change as a diff for approval",
   "author": {
     "name": "Joshua Hoblitt",
