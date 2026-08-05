@@ -1,0 +1,21 @@
+{
+  "name": "mine-directives",
+  "displayName": "Mine Directives",
+  "version": "0.0.0",
+  "description": "Mine per-project memory and session transcripts for durable standing directives, route each to its right config layer, and propose every change as a diff for approval",
+  "author": {
+    "name": "Joshua Hoblitt",
+    "email": "josh@hoblitt.com",
+    "url": "https://github.com/jhoblitt"
+  },
+  "homepage": "https://github.com/jhoblitt/mine-directives-claude",
+  "repository": "https://github.com/jhoblitt/mine-directives-claude",
+  "license": "Apache-2.0",
+  "keywords": [
+    "claude-md",
+    "memory",
+    "transcripts",
+    "config-hygiene",
+    "directives"
+  ]
+}
